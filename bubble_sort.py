@@ -1,5 +1,5 @@
 import random
-unsorted_array = [0]*10000
+unsorted_array = [0]*100
 
 size = len(unsorted_array)
 
